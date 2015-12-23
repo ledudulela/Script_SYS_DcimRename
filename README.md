@@ -18,7 +18,7 @@ FMT = '%Y%m%d %f (%01i)' format proposé par défaut dans la boite de dialogue
 
 --
 
-Le script est à placer dans le répertoire /usr/local/bin/ (retirez le .sh s'il existe )
+Le script est à placer dans le répertoire /usr/local/bin/ (retirez le .sh s'il existe ou créer un lien symbolique sans .sh)
 
 Bien que prévu pour être exécuté en ligne de commandes, il peut aussi être appelé depuis le gestionnaire de fichiers.
 
